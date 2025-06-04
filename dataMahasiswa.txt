@@ -1,0 +1,11 @@
+
+
+NIM = 20240040040
+Nama = RevalMH
+Alamat = Jl.Pamoyanan
+Kelas = TI24
+
+NIM = 20230040505
+Nama = SamuelMY
+Alamat = Jl.Paguyuban12
+Kelas = TI23
